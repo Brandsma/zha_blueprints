@@ -9,7 +9,7 @@ blueprint:
       selector:
         device:
           integration: zha
-          manufacturer: Aqara
+          # manufacturer: Aqara
           # model: lumi.sensor_switch.aq2
     remote_button_short_press:
       name: Single Press
